@@ -7,7 +7,7 @@
 #include <unistd.h>
 
 FILE *fptr;
-char hospital_name[] = "IITJ HOSPIAL";
+char hospital_name[] = "IITJ HOSPITAL";
 char password[100];
 int opt;
 
