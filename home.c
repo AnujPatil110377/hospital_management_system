@@ -23,7 +23,7 @@ void createDate(char*);
 int visitCount = 0;
 char doctor[100] = "Hitesh Singh";
 char doctor_pass[100] = "iitj@2023";
-char hospital_name[] = "IITJ HOSPIAL";
+char hospital_name[] = "IITJ HOSPITAL";
 char password[100];
 int opt;
 void baseline();
